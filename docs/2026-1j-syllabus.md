@@ -1,4 +1,9 @@
-# ENGL 1J: Persuasion
+---
+title: English 1J Syllabus
+description: Syllabus of course English 1J - Persuasion 
+date: 2025-12-15
+image: "[[https://pdr-assets.b-cdn.net/collections/merian-metamorphosis/Merian_Metamorphosis_00008-detail-5.jpg]]"
+---
 
 Here are some preliminary details about the course: 
 
@@ -53,32 +58,20 @@ Course expectations and policy details are shared below as an FAQ. If any questi
 1.  Can I get more details about the major [[#Writing Assignments]]?
 2.  What [[#Grade Scale]] do you use?
 3.  What constitutes the [[#Reflection Assignments]]?
+4.  Can you share more details about [[#Class Participation & Discussion Posts]]?
+5.  Can I contact the Writing Center for [[#Extra Writing Help]]?
+6.  What are the [[#Learning Outcomes]] of this course?
+7.  Do you have an [[#Attendance Policy]]?
+8.  Do you accept [[#Late Work]]?
+9.  What if I accidentally [[#Submit the Wrong File]] to Moodle and realize it later?
+10. What's the course policy on [[#Plagiarism and Academic Integrity]]?
+11. What's your policy on the [[#Use of AI]] in this course?
+12. As a student with a disability what sort of [[#Accommodation Policy]] can I expect?
+13. Is this course covered under [[#Sexual Misconduct & Title IX]] protection?
+14. What [[#Other Campus Resources]] are available to me to succeed in this course and outside of it?
 
-4.  [[Can you share more details about the class participation and discussion posts requirement?]{.underline}](#class-participation-discussion-posts)
-
-5.  [[Can I contact the Writing Center for additional writing help?]{.underline}](#extra-writing-help)
-
-6.  [[What would I learn in this course?]{.underline}](#learning-outcomes)
-
-7.  [[Do you have an attendance policy?]{.underline}](#attendance-policy)
-
-8.  [[Do you accept late submission?]{.underline}](#late-work)
-
-9.  [[What if I accidentally submit a wrong file to Moodle and realize it later?]{.underline}](#submitting-the-wrong-file)
-
-10. [[What's the plagiarism policy in this course?]{.underline}](#qkgfxphm0ahh)
-
-11. [[Can I take the help of AI to complete any part of the assignments in this course?]{.underline}](#no030l4zwfzu)
-
-12. [[As a student with a disability what sort of accommodation can I expect?]{.underline}](#for-students-with-disabilities)
-
-13. [[Is this course covered under Title IX protection?]{.underline}](#pf50fgux6809)
-
-14. [[What other campus resources are available to me to succeed in this course and in college?]{.underline}](#bpsr5k4i1qzm)
-
-15. [[Please take a note of this out-of-class expectation]{.underline}](#p5pa05a5qni2).
-
-**Important**: I, as your teacher, want you to succeed in this course and have a valuable learning experience. If there is anything bothering you in this course or anything going on in your personal life that's preventing you from doing well, then please reach out to me. I'll do my best to help.
+> [!IMPORTANT]  
+> I, as your teacher, want you to succeed in this course and have a valuable learning experience. If there is anything bothering you in this course or anything going on in your personal life that's preventing you from doing well, then please reach out to me. I'll do my best to help.
 
 ### Writing Assignments
 
@@ -86,37 +79,20 @@ There will be three major writing assignments in this course. More details for e
 
 1.  **Project 1/Rhetorical Analysis**: The first major writing assignment will be a rhetorical analysis essay and you will analyze a specific persuasive genre employed by a local, national or international organization dedicated to climate action, environmental rhetoric or sustainability. For example, if you choose Swarthmore's Office of Sustainability as your chosen organization then you can focus on one of the communications by the Office to advance its mission and responsibilities through various persuasive strategies. Please note that you have to choose only **one** communication example ( an email, a particular campaign, a flier, an executive plan, an in-person event, etc.) for your analysis. The length of the analysis should be 1500 words or more and you will be required to do close rhetorical reading of the text and incorporate at least three or more rhetorical concepts you learned in the textbook *The Essential Guide to Rhetoric*. This project will proceed through a topic proposal, rough draft, and final draft. Points: 20%
 
-2.  **Project 2/ Poster Presentation**: The purpose of the second project is to engage with an on-campus ecological issue and consider what sort of environmental rhetoric can be used to better spotlight the issue for the campus community and beyond. Sue MacQueen, the Campus Engagement Coordinator at Swarthmore, will give you a tour of the Crum Woods and Scott Arboretum in Week #7 to help you become aware of the multiple ecological realities facing SWAT's campus and its community members. You will then choose one issue as your topic idea for Project 2 and develop a rhetorical campaign to draw more attention to the issue. Your campaign will take the shape of a [[conference-style poster presentation]{.underline}](https://www.bu.edu/asor/am/2017/documents/poster-tips.pdf). This presentation will happen in a live "conference-like"event at a public venue and in which anyone from the campus community will be invited to participate. As part of the presentation you will design and print an A2 size poster, which should include the following components about your chosen ecological issue: brief introduction to the issue, how it connects to the larger world, why anyone should care about it, and what needs to be done to draw more attention to the issue. When presenting your poster to the audience at the event, you should account for two things. First, you should have a 2-3 minute "elevator pitch" ready to make your audience aware and care about the issue. You will prepare for this formal presentation part with the help of a [[Speaking Associate (SPA)]{.underline}](https://www.swarthmore.edu/writing/spas-speaking-associates). Second, your presentation should have an informal aspect to it, which will be conversational and interactive. As part of it, you will invite feedback from the audience on your rhetorical strategies and make note of their inputs. To cap the project, you will write a reflection paper on what rhetorical strategies of your own you brought to spotlight the issue, why, what feedback from the audience you received, and what revised rhetorical strategies you would propose. This project will develop in stages such as proposing your topic idea, researching your topic, creating an outline for presentation, designing the poster, presenting your poster, and completing a reflection activity. Points: 25%.
+2.  **Project 2/ Poster Presentation**: The purpose of the second project is to engage with an on-campus ecological issue and consider what sort of environmental rhetoric can be used to better spotlight the issue for the campus community and beyond. Sue MacQueen, the Campus Engagement Coordinator at Swarthmore, will give you a tour of the Crum Woods and Scott Arboretum in Week #7 to help you become aware of the multiple ecological realities facing SWAT's campus and its community members. You will then choose one issue as your topic idea for Project 2 and develop a rhetorical campaign to draw more attention to the issue. Your campaign will take the shape of a [conference-style poster presentation](https://www.bu.edu/asor/am/2017/documents/poster-tips.pdf). This presentation will happen in a live "conference-like"event at a public venue and in which anyone from the campus community will be invited to participate. As part of the presentation you will design and print an A2 size poster, which should include the following components about your chosen ecological issue: brief introduction to the issue, how it connects to the larger world, why anyone should care about it, and what needs to be done to draw more attention to the issue. When presenting your poster to the audience at the event, you should account for two things. First, you should have a 2-3 minute "elevator pitch" ready to make your audience aware and care about the issue. You will prepare for this formal presentation part with the help of a [Speaking Associate (SPA)](https://www.swarthmore.edu/writing/spas-speaking-associates). Second, your presentation should have an informal aspect to it, which will be conversational and interactive. As part of it, you will invite feedback from the audience on your rhetorical strategies and make note of their inputs. To cap the project, you will write a reflection paper on what rhetorical strategies of your own you brought to spotlight the issue, why, what feedback from the audience you received, and what revised rhetorical strategies you would propose. This project will develop in stages such as proposing your topic idea, researching your topic, creating an outline for presentation, designing the poster, presenting your poster, and completing a reflection activity. Points: 25%.
 
 3.  **Project 3/Personalizing the Academic**: For this project, you'll learn a concept called embodied rhetoric and you'll be introduced to examples of how academic research essays can be personalized. You'll see examples of academic writers speaking of their body, personalizing their argument, using storytelling, and underscoring inseparableness of their mind and body to formulate an argument. We know that western academic writing standards prefer to keep subjectivity, affect, and bodily presence out of writing. This project will attempt to challenge such exclusion. So as part of this project you will write a research essay on a topic of issue that's personal to you and you'll attempt to develop your academic argument by incorporating embodied rhetoric. From the examples we will analyze as part of this project, you will come to know of different ways embodied rhetoric work and how you can develop your argument in your essay through embodied as well as other types of rhetoric you will have learned in the course so far. The minimum word count of the essay will be 2000. You will be encouraged to compose and incorporate multimodal components to extend and enrich the persuasive power of your argument. The project will develop in stages such as proposing your topic idea, conducting preliminary research, rough draft, instructor and peer feedback, setting revision goals, and final draft. Points: 30%.
 
-### Grading Scale
+### Grade Scale
 
 The following grading scale will be used for writing assignments as well as final course grade:
 
-+-----------------+------------------+
-| **Grade Range** | **Letter Grade** |
-+-----------------+------------------+
-| 93-100          | A                |
-+-----------------+------------------+
-| 90-92           | A-               |
-+-----------------+------------------+
-| 87-89           | B+               |
-+-----------------+------------------+
-| 83-86           | B                |
-+-----------------+------------------+
-| 80-82           | B-               |
-+-----------------+------------------+
-| 77-79           | C+               |
-+-----------------+------------------+
-| 73-76           | C                |
-+-----------------+------------------+
-| 70-72           | C-               |
-+-----------------+------------------+
-| 67-69           | D+               |
-+=================+==================+
+- 93-100 = A; 90-92 = A-;  
+- 87-89 = B+; 83-86 = B; 80-82 = B-;  
+- 77-79 = C+; 73-76 = C; 70-72 = C-;  
+- 67-69 = D+; 63-66 = D; 60-62 = D-; 59-0 = F
 
-[When rounding up your final grade, I will follow the convention described on this [[web page]{.underline}](http://www.amsi.org.au/ESA_Resources/Q3450/Q3450_2.html). For example, 92.4 will get rounded to 92 but 92.5 will get rounded to 93.]{.mark}
+When rounding up your final grade, I will follow the convention described on this [web page](http://www.amsi.org.au/ESA_Resources/Q3450/Q3450_2.html). For example, 92.4 will get rounded to 92 but 92.5 will get rounded to 93.]
 
 ### Reflection Assignments
 
@@ -134,7 +110,7 @@ You are expected to take class discussion very seriously, and you are expected t
 
 ### Extra Writing Help
 
-[[The Writing Center at Swarthmore]{.underline}](https://www.swarthmore.edu/writing/writing-center) can be a great source for getting additional writing help. This service is free to all students. The Writing Center is located at Trotter Hall 120. At the Writing Center you can get pre-writing help, feedback on your written draft, and a potential reader for your work. I highly encourage you to avail of this service. If you need more persuasion on how the writing center can be highly beneficial, then check the essay "[[Why Visit Your Campus Writing Center?]{.underline}](https://drive.google.com/file/d/1rKSAeR9PWQ9mFScrMQcF5T-wnv9R4M_V/view)" by Ben Rafoth.
+[The Writing Center at Swarthmore](https://www.swarthmore.edu/writing/writing-center) can be a great source for getting additional writing help. This service is free to all students. The Writing Center is located at Trotter Hall 120. At the Writing Center you can get pre-writing help, feedback on your written draft, and a potential reader for your work. I highly encourage you to avail of this service. If you need more persuasion on how the writing center can be highly beneficial, then check the essay "[Why Visit Your Campus Writing Center?](https://drive.google.com/file/d/1rKSAeR9PWQ9mFScrMQcF5T-wnv9R4M_V/view)" by Ben Rafoth.
 
 ### Learning Outcomes
 
@@ -160,36 +136,36 @@ We will meet in-person on Tuesdays/Thursdays on scheduled class time.
 
 You're allowed late submission for any **two** assignments. Think of it as a lifeline. Be it Rough Draft, Peer Review Draft, Final Draft, reflection assignment, or a discussion post, you've a 48-hour grace period from the deadline to submit your work. Please remember, **you can use the lifeline only twice**, no questions asked, and within 48 hours of the official deadline. And once you use the lifeline, late submissions might not be accepted.
 
-### Submitting the Wrong File
+### Submit the Wrong File
 
 There will be no paper-based submission in this course. All your assignments will be submitted via Moodle. Because of the digital nature of the submission, it's your responsibility to double check that you've submitted the correct version of the assignment. Unless I receive the correct file by the deadline, your work will be deemed as late or not submitted. Also, please don't submit assignments in .pages or .wps format.
 
 ### Plagiarism and Academic Integrity
 
-Any work that you submit at any stage of the writing process---draft, thesis and outline, bibliography, discussion post, etc.---must be your own work. In addition, any words, ideas, or data that you borrow from other sources must be properly cited. Failure to do either of these can amount to plagiarism or violation of academic integrity. Penalties for such offenses can include major course penalties or possibly failure of the course and can result in reporting to the office of Dean of Student Life. For more information on this topic, please consult this link: [[https://www.swarthmore.edu/student-handbook/academic-policies#academic_misconduct]{.underline}](https://www.swarthmore.edu/student-handbook/academic-policies#academic_misconduct)
+Any work that you submit at any stage of the writing process---draft, thesis and outline, bibliography, discussion post, etc.---must be your own work. In addition, any words, ideas, or data that you borrow from other sources must be properly cited. Failure to do either of these can amount to plagiarism or violation of academic integrity. Penalties for such offenses can include major course penalties or possibly failure of the course and can result in reporting to the office of Dean of Student Life. For more information on this topic, please consult this link: [https://www.swarthmore.edu/student-handbook/academic-policies#academic_misconduct](https://www.swarthmore.edu/student-handbook/academic-policies#academic_misconduct)
 
-### Caveats on the Use of AI
+### Use of AI
 
 I am highly skeptical of AI and its capabilities when it comes to writing. I am still learning about AI and developing my thoughts on when and how to allow my students to use AI. The Writing Associates Program at Swarthmore, which oversees this course, is also in the midst of developing its policies on AI. But please know there's consensus among AI experts that AI technology is prone to inaccuracies, biases, and "hallucinations" that doesn't lead to a thoughtful and sophisticated academic argument, which you need to demonstrate to pass this course. You're allowed to use AI bots only to brainstorm on a topic and further your research but in those cases you'll have to notify me the extent to which you're using AI and why. If it comes to my notice that you've used the help of AI to write any part of your classwork and you haven't alerted me beforehand, then it might amount to plagiarism and I may consider reporting the case to college administration. But note that using any AI-based grammar or spellchecker is acceptable.
 
-###  For Students with Disabilities
+###  Accommodation Policy
 
-I want all students to have the best possible chance to succeed in this course and those include neurodiverse learners. If you believe you need accommodations for a disability or a chronic medical condition, please contact Student Disability Services via email at [[studentdisabilityservices@swarthmore.edu]{.underline}](mailto:studentdisabilityservices@swarthmore.edu) to arrange an appointment to discuss your needs. As appropriate, the office will issue students with documented disabilities or medical conditions a formal Accommodations Letter. Since accommodations require early planning and are not retroactive, please contact Student Disability Services as soon as possible. For details about the accommodations process, [[visit the Student Disability Services website]{.underline}](https://www.swarthmore.edu/office-academic-success/welcome-to-student-disability-services). You are also welcome to contact me, your instructor, privately to discuss your academic needs. However, all disability-related accommodations must be arranged, in advance, through Student Disability Services.
+I want all students to have the best possible chance to succeed in this course and those include neurodiverse learners. If you believe you need accommodations for a disability or a chronic medical condition, please contact Student Disability Services via email at [studentdisabilityservices@swarthmore.edu](mailto:studentdisabilityservices@swarthmore.edu) to arrange an appointment to discuss your needs. As appropriate, the office will issue students with documented disabilities or medical conditions a formal Accommodations Letter. Since accommodations require early planning and are not retroactive, please contact Student Disability Services as soon as possible. For details about the accommodations process, [visit the Student Disability Services website](https://www.swarthmore.edu/office-academic-success/welcome-to-student-disability-services). You are also welcome to contact me, your instructor, privately to discuss your academic needs. However, all disability-related accommodations must be arranged, in advance, through Student Disability Services.
 
 ### Sexual Misconduct & Title IX 
 
-As a Swarthmore employee, I'm required by law to report any disclosures of sexual assault or harassment to the Title IX Coordinator. These reports are private, but must include identifiable information about the victim. The reporting will include the date, time, location (on or off-campus) of assault, and whether or not the victim and/or perpetrator are Swarthmore students. Once the Title IX Coordinator receives a report, they will send the victim information about support and resources, and invite them to come in for assistance. While the College has an obligation to reach out to provide resources and assess campus safety, the victim is not required to participate in a meeting or possible investigation. More specific information and resources are available at [[Sexual Harassment/Assault Resources & Education]{.underline}](https://www.swarthmore.edu/share/). 
+As a Swarthmore employee, I'm required by law to report any disclosures of sexual assault or harassment to the Title IX Coordinator. These reports are private, but must include identifiable information about the victim. The reporting will include the date, time, location (on or off-campus) of assault, and whether or not the victim and/or perpetrator are Swarthmore students. Once the Title IX Coordinator receives a report, they will send the victim information about support and resources, and invite them to come in for assistance. While the College has an obligation to reach out to provide resources and assess campus safety, the victim is not required to participate in a meeting or possible investigation. More specific information and resources are available at [Sexual Harassment/Assault Resources & Education](https://www.swarthmore.edu/share/). 
 
 ### Other Campus Resources
 
 Swarthmore provides a range of resources for your personal excellence, well-being, and academic success. Please avail of these resources/services to succeed in this course and your academic career. If there is any source you're aware of that you think your peers will benefit from but not listed here, please suggest them here using the comment feature.
 
-- For student advising, campus resources, and overall academic success, please contact the [[Office of Academic Success]{.underline}](https://www.swarthmore.edu/office-academic-success).
-- For your overall health and well-being contact [[Student Health and Wellness]{.underline}](https://www.swarthmore.edu/student-health-and-wellness) services.
-- For counseling services and mental health support, please contact [[Counseling and Psychological Services (CAPS)]{.underline}](https://www.swarthmore.edu/counseling-and-psychological-services). They provide 24/7 support services through a variety of communication modes.
-- For sexual assault and domestic violence crisis, contact [[Violence Prevention Educator and Survivor Advocate]{.underline}](https://www.swarthmore.edu/student-health/violence-prevention-educator-and-survivor-advocate).
-- To find assistance for drug and alcohol challenges, contact [[Alcohol and Other Drug Counseling & Support]{.underline}](https://www.swarthmore.edu/student-health/alcohol-and-other-drug-counseling-support).
-- To support and be part of a vibrant and inclusive campus community, know more about the [[Black Cultural Center]{.underline}](https://www.swarthmore.edu/black-cultural-center), [[Interfaith Center]{.underline}](https://www.swarthmore.edu/interfaith-center), [[Intercultural Center]{.underline}](https://www.swarthmore.edu/hormel-nguyen-intercultural-center), [[LGBTQ+ digital resources]{.underline}](https://www.swarthmore.edu/lgbtq), [[Women\'s Resource Center (WRC)]{.underline}](https://www.swarthmore.edu/womens-resource-center), and [Office of Inclusive Excellence and Community Development (IECD)](https://www.swarthmore.edu/diversity-inclusion-and-community-development).
+- For student advising, campus resources, and overall academic success, please contact the [Office of Academic Success](https://www.swarthmore.edu/office-academic-success).
+- For your overall health and well-being contact [Student Health and Wellness](https://www.swarthmore.edu/student-health-and-wellness) services.
+- For counseling services and mental health support, please contact [Counseling and Psychological Services (CAPS)](https://www.swarthmore.edu/counseling-and-psychological-services). They provide 24/7 support services through a variety of communication modes.
+- For sexual assault and domestic violence crisis, contact [Violence Prevention Educator and Survivor Advocate](https://www.swarthmore.edu/student-health/violence-prevention-educator-and-survivor-advocate).
+- To find assistance for drug and alcohol challenges, contact [Alcohol and Other Drug Counseling & Support](https://www.swarthmore.edu/student-health/alcohol-and-other-drug-counseling-support).
+- To support and be part of a vibrant and inclusive campus community, know more about the [Black Cultural Center](https://www.swarthmore.edu/black-cultural-center), [Interfaith Center](https://www.swarthmore.edu/interfaith-center), [Intercultural Center](https://www.swarthmore.edu/hormel-nguyen-intercultural-center), [LGBTQ+ digital resources](https://www.swarthmore.edu/lgbtq), [Women\'s Resource Center (WRC)](https://www.swarthmore.edu/womens-resource-center), and [Office of Inclusive Excellence and Community Development (IECD)](https://www.swarthmore.edu/diversity-inclusion-and-community-development).
 
 ### Important: Out-of-class Expectation
 
@@ -204,3 +180,4 @@ As part of Project 3 and to experience embodied rhetoric in a specific way, you'
 - After attending the protest, you will complete a reflection activity on your experience and your take on embodied rhetoric.
 - You have the option to opt out of the protest for a reasonable cause. In that case, you will be expected to complete a make-up assignment, the details of which I will share later.
 - Please confirm by Jan 31 whether you're able to attend the protest. (a Google form link will be shared with you soon)
+
