@@ -1,13 +1,18 @@
 ---
-title: Add a Blog Section to Your Flowershow Site
-description: This is a simple starting point for the tutorial.
+title: Prof. Mishra's Courses
+description: Prof. Mishra's course materials and other instructional stuffs found here
 image: "[[https://pdr-assets.b-cdn.net/collections/merian-metamorphosis/Merian_Metamorphosis_00008-detail-5.jpg]]"
 showHero: true
 showToc: false
+synaxMode: mdx
 ---
 
-## 👋 Hey there!
-
-This is a minimal homepage I’ll start from in today’s tutorial.  
-
-...
+<List 
+  dir="/courses" 
+  slots={{
+    headline: "title",
+    summary: "description",
+    eyebrow: "date",
+    media: "image"
+  }}
+/>
