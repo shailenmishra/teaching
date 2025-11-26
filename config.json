@@ -23,8 +23,6 @@
   "showComments": false,           // Disable comments site-wide (if you want to enable them only on specific pages)
   "showSidebar": true,             // Show site map on the left,
   "showToc": false,                // Disable table of contents site-wide
-  "contentInclude": ["/courses", "README.md"],
-  "contentExclude": ["/courses/_archive"],
   "theme": {
     "theme": "superstack",        // Optional official Flowershow theme
     "defaultMode": "light",
