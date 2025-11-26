@@ -1,6 +1,6 @@
 # ENGL 1J: Persuasion
 
-## Course Logistics
+Here are some preliminary details about the course: 
 
 - Course Theme: "Environmental awareness and environmental rhetoric"
 - Instructor: Dr. Shailen Mishra
