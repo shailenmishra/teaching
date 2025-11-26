@@ -6,7 +6,7 @@ synaxMode: mdx
 ---
 
 <List 
-  dir="/courses" 
+  dir="/" 
   slots={{
     headline: "title",
     summary: "description",
