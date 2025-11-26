@@ -1,7 +1,7 @@
 {
   "title": "Prof. Mishra's Courses",
   "description": "Prof. Mishra's course materials and other instructional stuffs found here",
-  "favicon": "/path/to/favicon.png", // Path or an emoji, e.g. "🐶"
+  "favicon": "/path/to/favicon.png", 
   "nav": {
     "logo": "assets/lesson.png",           // Path to your logo file or external URL
     "title": "Prof. Mishra's Courses",  // Site title displayed next to the logo
