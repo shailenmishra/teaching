@@ -1,7 +1,7 @@
 {
   "nav": {
     "logo": "/assets/lesson.png",
-    "title": "Prof. Mishra Course Page",
+    "title": "Prof. Shailen Mishra",
     "links": [
       {
         "href": "/courses",
@@ -10,18 +10,6 @@
       {
         "href": "/about",
         "name": "About"
-      }
-    ],
-    "social": [
-      {
-        "label": "github",
-        "name": "GitHub Profile",
-        "href": "https://github.com/yourusername"
-      },
-      {
-        "label": "twitter",
-        "name": "Follow me on Twitter",
-        "href": "https://twitter.com/yourusername"
       }
     ]
   }
