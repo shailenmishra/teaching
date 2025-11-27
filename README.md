@@ -4,8 +4,14 @@ description: Course materials and other instructional assets found here.
 image: "[[https://pdr-assets.b-cdn.net/collections/diagrams-from-dr-alesha-sivartha-s-book-of-life-1898/bookoflife-banner.jpg]]"
 showHero: true
 showToc: false
-synaxMode: mdx
+syntaxMode: mdx
 ---
+
+<div class="hero">
+    <h1 class="hero-title">Prof. Mishra's Courses</h1>
+    <p class="hero-description">Course materials and other instructional assets found here.</p>
+    <a href="/docs/2026-1j-syllabus.md" class="hero-button">Syllabus 1J</a>
+</div>
 
 <div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-gray-200 p-10 transition-all duration-150 hover:border-orange-400">
   <h3 className="font-semibold">English 1J - Spring 2026</h3>
