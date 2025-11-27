@@ -1,0 +1,8 @@
+/* Adds color to the hyperlinks */
+
+.rendered-mdx:not(.is-plain) :where(a):not(:where([class~=not-prose],
+[class~=not-prose] *)) {
+  color:rgba(198, 36, 36, 1);
+  text-decoration:underline;
+  font-weight:500;
+}
