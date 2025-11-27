@@ -1,8 +1,7 @@
 ---
-title: English 1J Syllabus
-description: Syllabus of course English 1J - Persuasion 
+title: English 1J Syllabus - Spring 2026
+description: Syllabus of course English 1J - Persuasion - Spring 2026
 date: 2025-12-15
-image: "[[https://pdr-assets.b-cdn.net/collections/merian-metamorphosis/Merian_Metamorphosis_00008-detail-5.jpg]]"
 ---
 
 Here are some preliminary details about the course: 
