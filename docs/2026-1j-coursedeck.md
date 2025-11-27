@@ -5,7 +5,12 @@ date: 2025-12-15
 image: "[[https://pdr-assets.b-cdn.net/collections/merian-metamorphosis/Merian_Metamorphosis_00008-detail-5.jpg]]"
 ---
 
-<div className="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-gray-200 p-10 transition-all duration-150 hover:border-orange-400">
-  <h3 className="font-semibold"><a href="/docs/2026-1j-syllabus.md">English 1J - Spring 2026 - Syllabus</a></h3>
-</div>
+Here are the links to important course documents: 
+
+- [Course syllabus](/docs/2026-1j-syllabus.md)
+- [Weekly schedule](/docs/2026-1j-weekly-schedule.md)
+- [Project 1 - Handout](/docs/2026-1j-project1-handout.md)
+- [Project 2 - Handout](/docs/2026-1j-project2-handout.md)
+- [Project 3 - Handout](/docs/2026-1j-project3-handout.md)
+
 
