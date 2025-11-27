@@ -164,6 +164,13 @@ Below you will find the weekly breakdown of scheduled readings and assignments. 
 
 SPRING BREAK. NO CLASS.
 
+<figure>
+    <img src="/assets/01-thornton-24-snowdrop-02-cropped.png"
+         alt="Foreground focuses on intricately detailed snowdrops and crocuses with crisp colors against a muted backdrop. In the distance, rolling hills descend into a quaint village beside a solitary cabin under a dramatic, cloud-filled sky with hints of sunset.">
+    <figcaption>“The Snowdrop”, a plate from “The Temple of Flora”, the third and final part of Robert John Thornton’s New Illustration of the Sexual System of Carolus von Linnaeus (1807)</figcaption>
+</figure>
+
+
 ## Week 9
 
 ### Mar 18
