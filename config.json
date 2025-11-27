@@ -12,5 +12,11 @@
         "name": "About"
       }
     ]
+  },
+  "theme": {
+    "theme": "superstack",
+    "defaultMode": "light",
+    "showModeSwitch": true
   }
 }
+
