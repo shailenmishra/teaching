@@ -11,8 +11,17 @@ Here are some preliminary details about the course:
 - Student hours: T/Th 8:55-9:55 am, and by appointment; Parrish Hall W227; if you plan to stop by during the student hour, I would appreciate an email notification in advance.
 - Email: [smishra1@swarthmore.edu](mailto:smishra1@swarthmore.edu)
 
-> [!IMPORTANT]  
+{: .important }
 > Course communications will primarily happen via your college email id. Make sure to check it regularly.
+
+<details markdown="block">
+  <summary>
+    Table of Contents
+  </summary>
+- TOC
+{:toc}
+</details>
+
 
 ## Course Description
 
@@ -23,9 +32,7 @@ The theme of the course will be environmental awareness and environmental rhetor
 There will be three projects that you will complete in this course:
 
 1.  You will conduct rhetorical analysis of a persuasion campaign employed by an organization or entity dedicated to climate action (for example analyzing persuasion strategies adopted by the Office of Sustainability at Swarthmore in their public-facing communication genres); in this assignment you will use the rhetorical concepts you have learned and readings up to Week 5 to conduct rhetorical analysis.
-
 2.  You will do a poster presentation to the Swarthmore community on an ecological issue of your choice after completing a guided tour of the Crum Woods and Scott Arboretum. You will also present an argument as part of the presentation, you will invite the community's feedback on the topic, and you will write a final reflection paper on what you learned in terms of the rhetorical engagement your topic demands.
-
 3.  You will write a research essay on a topic that stretches the norms and expectations of academic writing (by that I mean the Western standards of academic rhetoric). This is a more open-ended project, meaning you can write on topics not limited to environmentalism. Nevertheless, the rhetorical strategies you employ to complicate and problematize the genre of academic research essay should be informed by embodied rhetoric, a concept that you will learn through our in-class readings and discussions, and out-of-class activities.
 
 ## Schedule
@@ -35,7 +42,6 @@ There will be three projects that you will complete in this course:
 ##  Texts
 
 - *Out of the Woods: Seeing Nature in the Everyday* by Julia Corbett, First Edition, ISBN 978-1943859887. This is a required text and students are expected to purchase a copy.
-
 - Other readings in the course will come from scholarly journals, book chapters, and web sources, and they will be made available to you in html or pdf format.
 
 ## Grade Distribution
@@ -43,9 +49,7 @@ There will be three projects that you will complete in this course:
 Total course grade (100%) will be divided into several components:
 
 1.  Writing projects (three in total): 75%
-
 2.  Class participation & discussion posts: 15%
-
 3.  Reflection assignments: 10%
 
 One note on the grade distribution: commitment to the writing process will play a crucial role in this course and it is factored in the different stages involved in each writing assignment. It's important that you complete all the components of each assignment, and pay attention to and document how your work evolves in stages.
@@ -54,9 +58,9 @@ One note on the grade distribution: commitment to the writing process will play 
 
 Course expectations and policy details are shared below as an FAQ. If any question/concern is not answered then please use the comment feature to leave questions for me. For any personal concerns, email me.
 
-1.  Can I get more details about the major [[#Writing Assignments]]?
-2.  What [[#Grade Scale]] do you use?
-3.  What constitutes the [[#Reflection Assignments]]?
+1.  Can I get more details about the major [writing assignments](#writing-assignments)?
+2.  What [grade scale](#grade-scale) do you use?
+3.  What constitutes the [reflection assignments](#reflection-assignments)?
 4.  Can you share more details about [[#Class Participation & Discussion Posts]]?
 5.  Can I contact the Writing Center for [[#Extra Writing Help]]?
 6.  What are the [[#Learning Outcomes]] of this course?
@@ -69,7 +73,7 @@ Course expectations and policy details are shared below as an FAQ. If any questi
 13. Is this course covered under [[#Sexual Misconduct & Title IX]] protection?
 14. What [[#Other Campus Resources]] are available to me to succeed in this course and outside of it?
 
-> [!IMPORTANT]  
+{: .important }  
 > I, as your teacher, want you to succeed in this course and have a valuable learning experience. If there is anything bothering you in this course or anything going on in your personal life that's preventing you from doing well, then please reach out to me. I'll do my best to help.
 
 ### Writing Assignments
@@ -77,9 +81,7 @@ Course expectations and policy details are shared below as an FAQ. If any questi
 There will be three major writing assignments in this course. More details for each project will be given in a separate handout at the start of the project.
 
 1.  **Project 1/Rhetorical Analysis**: The first major writing assignment will be a rhetorical analysis essay and you will analyze a specific persuasive genre employed by a local, national or international organization dedicated to climate action, environmental rhetoric or sustainability. For example, if you choose Swarthmore's Office of Sustainability as your chosen organization then you can focus on one of the communications by the Office to advance its mission and responsibilities through various persuasive strategies. Please note that you have to choose only **one** communication example ( an email, a particular campaign, a flier, an executive plan, an in-person event, etc.) for your analysis. The length of the analysis should be 1500 words or more and you will be required to do close rhetorical reading of the text and incorporate at least three or more rhetorical concepts you learned in the textbook *The Essential Guide to Rhetoric*. This project will proceed through a topic proposal, rough draft, and final draft. Points: 20%
-
 2.  **Project 2/ Poster Presentation**: The purpose of the second project is to engage with an on-campus ecological issue and consider what sort of environmental rhetoric can be used to better spotlight the issue for the campus community and beyond. Sue MacQueen, the Campus Engagement Coordinator at Swarthmore, will give you a tour of the Crum Woods and Scott Arboretum in Week #7 to help you become aware of the multiple ecological realities facing SWAT's campus and its community members. You will then choose one issue as your topic idea for Project 2 and develop a rhetorical campaign to draw more attention to the issue. Your campaign will take the shape of a [conference-style poster presentation](https://www.bu.edu/asor/am/2017/documents/poster-tips.pdf). This presentation will happen in a live "conference-like"event at a public venue and in which anyone from the campus community will be invited to participate. As part of the presentation you will design and print an A2 size poster, which should include the following components about your chosen ecological issue: brief introduction to the issue, how it connects to the larger world, why anyone should care about it, and what needs to be done to draw more attention to the issue. When presenting your poster to the audience at the event, you should account for two things. First, you should have a 2-3 minute "elevator pitch" ready to make your audience aware and care about the issue. You will prepare for this formal presentation part with the help of a [Speaking Associate (SPA)](https://www.swarthmore.edu/writing/spas-speaking-associates). Second, your presentation should have an informal aspect to it, which will be conversational and interactive. As part of it, you will invite feedback from the audience on your rhetorical strategies and make note of their inputs. To cap the project, you will write a reflection paper on what rhetorical strategies of your own you brought to spotlight the issue, why, what feedback from the audience you received, and what revised rhetorical strategies you would propose. This project will develop in stages such as proposing your topic idea, researching your topic, creating an outline for presentation, designing the poster, presenting your poster, and completing a reflection activity. Points: 25%.
-
 3.  **Project 3/Personalizing the Academic**: For this project, you'll learn a concept called embodied rhetoric and you'll be introduced to examples of how academic research essays can be personalized. You'll see examples of academic writers speaking of their body, personalizing their argument, using storytelling, and underscoring inseparableness of their mind and body to formulate an argument. We know that western academic writing standards prefer to keep subjectivity, affect, and bodily presence out of writing. This project will attempt to challenge such exclusion. So as part of this project you will write a research essay on a topic of issue that's personal to you and you'll attempt to develop your academic argument by incorporating embodied rhetoric. From the examples we will analyze as part of this project, you will come to know of different ways embodied rhetoric work and how you can develop your argument in your essay through embodied as well as other types of rhetoric you will have learned in the course so far. The minimum word count of the essay will be 2000. You will be encouraged to compose and incorporate multimodal components to extend and enrich the persuasive power of your argument. The project will develop in stages such as proposing your topic idea, conducting preliminary research, rough draft, instructor and peer feedback, setting revision goals, and final draft. Points: 30%.
 
 ### Grade Scale
@@ -98,9 +100,7 @@ When rounding up your final grade, I will follow the convention described on thi
 Reflection will be a critical part of this course to assess your learning and develop metacognition. There will be three reflection assignments in total. Here are some details about the three reflection assignments:
 
 - You will complete one reflection assignment at the end of the semester. You will develop a personal theory of persuasion, meaning, based on your interest and learnings in the course, you will conceptualize a theory of persuasion and how you plan to adapt that theory as the writing context, genre, and audience expectations will change from one writing context to another. (Points 5%)
-
 - After completing the guided tour of Scott Arboretum and Crum Woods with Sue MacQueen, you will compose a reflection about your observations. (Points 2.5%)
-
 - After taking part in Chester community's annual protest for environmental justice, you will write a reflection about your observations at the protest and how the embodied rhetoric worked in that event. (Points 2.5%)
 
 ### Class Participation & Discussion Posts
